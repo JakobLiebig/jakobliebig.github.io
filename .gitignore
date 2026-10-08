@@ -1,0 +1,8 @@
+.DS_Store
+# Large hook videos stay local (scroll view embeds YouTube instead)
+media/hook/
+# Precompute artifacts
+__pycache__/
+.venv/
+*.pt
+*.ckpt
